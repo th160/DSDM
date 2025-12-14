@@ -36,4 +36,4 @@ library(depmixS4)
     ├── DSDM_prediction.R             # Application script to apply the trained model to new data
 ```
 
-Due to GitHub's file size limitations, the whole pre-trained model are too large to be hosted directly in this repository. **[ Pre-trained DSDM Model via Zenodo ](YOUR_ZENODO_LINK_HERE)**
+Due to GitHub's file size limitations, the whole pre-trained model are too large to be hosted directly in this repository. Pre-trained DSDM Model and processed data via **[Zenodo](https://doi.org/10.5281/zenodo.17896569)**
