@@ -2,7 +2,7 @@
 
 [![R](https://img.shields.io/badge/Made_with-R-blue.svg)](https://cran.r-project.org/)
 
-A genome annotation model based on intrinsic DNA topology developed using R.
+Enabling DNA Intrinsic Topology Annotations by DSDM
 
 ## Overview
 
