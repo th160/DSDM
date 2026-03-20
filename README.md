@@ -2,7 +2,7 @@
 
 [![R](https://img.shields.io/badge/Made_with-R-blue.svg)](https://cran.r-project.org/)
 
-Enabling DNA Intrinsic Topology  for Genome Annotations by DSDM
+DSDM: enabling genome annotation and deciphering latent conformational landscapes via DNA intrinsic topology
 
 ## Overview
 
